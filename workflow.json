@@ -244,11 +244,11 @@
           "parameters": [
             {
               "name": "apikey",
-              "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJsbmR5Z25iY2JwZXNvcHVva3BsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODc1NTMxMjEsImV4cCI6MjEwMzEyOTEyMX0.X29pP1YzKxKpCVUB7Bx_xrqRn7KtxOTt6scLEp3aChQ"
+              "value": "YOUR_SUPABASE_ANON_KEY"
             },
             {
               "name": "Authorization",
-              "value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJsbmR5Z25iY2JwZXNvcHVva3BsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODc1NTMxMjEsImV4cCI6MjEwMzEyOTEyMX0.X29pP1YzKxKpCVUB7Bx_xrqRn7KtxOTt6scLEp3aChQ"
+              "value": "Bearer YOUR_SUPABASE_ANON_KEY"
             },
             {
               "name": "Content-Type",
