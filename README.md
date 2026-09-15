@@ -3,13 +3,11 @@
 <br/>
 
 ```
-██████╗ ██████╗  ██████╗     ███╗   ██╗██████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██╔════╝     ████╗  ██║██╔══██╗████╗  ██║
-██████╔╝██████╔╝██║  ███╗    ██╔██╗ ██║██████╔╝██╔██╗ ██║
-██╔══██╗██╔═══╝ ██║   ██║    ██║╚██╗██║██╔═══╝ ██║╚██╗██║
-██║  ██║██║     ╚██████╔╝    ██║ ╚████║██║     ██║ ╚████║
-╚═╝  ╚═╝╚═╝      ╚═════╝     ╚═╝  ╚═══╝╚═╝     ╚═╝  ╚═══╝
-                         HYDROLOGY
+    __  ____  ______  ____  ____  __    ____  ________  __
+   / / / /\ \/ / __ \/ __ \/ __ \/ /   / __ \/ ____/\ \/ /
+  / /_/ /  \  / / / / /_/ / / / / /   / / / / / __   \  / 
+ / __  /   / / /_/ / _, _/ /_/ / /___/ /_/ / /_/ /   / /  
+/_/ /_/   /_/_____/_/ |_|\____/_____/\____/\____/   /_/
 ```
 
 <h3>Environmental Hydrology & Flood Warning Pipeline</h3>
@@ -249,7 +247,7 @@ git clone https://github.com/abderrahman-ai/environmental-hydrology-flood-warnin
 git checkout -b feat/new-capability
 
 # 3. Commit your changes
-git commit -m "feat: enhance node error handling"
+git commit -m "style: update unique custom ASCII art banner"
 
 # 4. Push and open a Pull Request
 git push origin feat/new-capability
